@@ -24,10 +24,33 @@ For the first point, I'm answering the following questions:
 
 ## Used Packages
 
-- Python 3.7.0
-- Pandas
-- Numpy
-- Matplotlib
-- Sklearn
+- Python        3.7.0
+- Pandas        1.0.3
+- Numpy         1.15.1
+- Matplotlib    3.2.1
+- Sklearn       0.24.1
 
 ## Key Insights and results
+
+**The complete analysis can be found in the Notebook**
+
+![Image: Mean price across the year ](graphs/mean_price.png)
+
+![Image: Availability across the year ](graphs/availability.png)
+
+| Neighbourhood | Zipcode | Ration |
+| --- | --- | ---|
+| Unknown | Title | xxxx |
+| Unknown | Title | xxxx |
+| Unknown | Title | xxxx |
+| Unknown | Title | xxxx |
+| Unknown | Title | xxxx |
+| Unknown | Title | xxxx |
+| Unknown | Title | xxxx |
+| Unknown | Title | xxxx |
+| Unknown | Title | xxxx |
+| Unknown | Title | xxxx |
+
+
+
+
