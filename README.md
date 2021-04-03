@@ -49,7 +49,7 @@ and the corresponding availability:
 
 | Neighbourhood | Zipcode | Ratio |
 | --- | --- | --- |
-| Unknown | 98108 | 0.149 |
+| South Seattle | 98108 | 0.149 |
 | Maple Leaf | 98125 | 0.138 |
 | South Delridge | 98106 | 0.137 |
 | The Junction | 98118 | 0.136 |
