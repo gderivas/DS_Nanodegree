@@ -31,6 +31,14 @@ For the first point, I'm answering the following questions:
 - Matplotlib    3.2.1
 - Sklearn       0.24.1
 
+## Folder and files description
+
+- data (folder):    Original Kaggle Seattle Dataset
+- graphs (folder):  Include all results (graphs and tables) as pictures for communication
+- .gitignore:       Ignore IDE/auxiliary files for the repository
+- project.ipynb:    Python Notebook with the all the code
+- README.md:        This documentation file 
+
 ## Key Insights and results
 
 The complete analysis can be found in the Notebook
@@ -45,7 +53,7 @@ and the corresponding availability:
 
 ![Image: Availability across the year ](graphs/availability.png)
 
-**Which are the neighbourhoods (zip codes) with better price/review ratio?**
+**Which are the neighbourhoods (zip codes) with better review/price ratio?**
 
 | Neighbourhood | Zipcode | Ratio |
 | --- | --- | --- |
